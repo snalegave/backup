@@ -1,0 +1,12 @@
+/* define any style rules you need here */
+img {
+    max-width: 200px;
+}
+
+button {
+    border: 0px solid transparent;
+}
+
+.container {
+    margin-bottom: 0px;
+}
